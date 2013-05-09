@@ -9,6 +9,8 @@ class SparePart {
 	String desc
 	Boolean enable = true
 
+
+
     static constraints = {
 
     }
